@@ -12,3 +12,8 @@ Cargo.lock
 # config files
 .cargo/config
 config.json
+
+
+# Added by cargo
+
+/target
